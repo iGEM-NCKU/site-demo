@@ -1,0 +1,6 @@
+t.* 
+*.ipynb 
+*.pdf 
+t
+public
+__pycache__
